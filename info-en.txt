@@ -1,5 +1,4 @@
-# AMD-APU-BrightnessFix
-AMD Catalyst driver brightness fix for laptops/tablets.
+AMD Catalyst driver fix for laptops/tablets.
 
 This installer repairs the AMD Catalyst driver bug that prevents display brightness adjustments on laptops/tablets based on the A3/A4/A6/A8/A10 APU family. The bug only affects Windows 8/8.1/10
 
@@ -9,6 +8,5 @@ After setup restart is required. After restart the brightness adjustments should
 
 This program is free software and it's created by Gábor Ruzsinszki - Webmaster442. http://webmaster442.hu
 
+Program source code available at: https://github.com/webmaster442/AMD-APU-BrightnessFix
 This setup uses uses icons from Icons8 - http://icons8.com
-
-To Compile this setup InnoSetup is required. It can be downloaded from: http://www.jrsoftware.org/isinfo.php

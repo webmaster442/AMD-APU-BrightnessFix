@@ -1,0 +1,12 @@
+AMD Catalyst driver javítás laptopok/tabletek számára
+
+Ez a telepítõ kijavítja az AMD A3/A4/A6/A8/A10 APU családok esetén tapasztalható driver hibát, ami megakadályozza a fényerõszabályozás mûködését Windows 8/8.1/10 operációs rendszerek alatt.
+
+A telepítõ csak egy regisztrációs adatbázis kulcsot módosít.
+
+A folyamat végeztével újra kell indítani a számítógépet. Ezt követõen a fényerõ szabályozás ismét mûködik.
+
+Ez egy nyílt forráskódú szoftver, amit Ruzsiszki Gábor - Webmaster442 készített. http://webmaster442.hu
+
+A program forráskódja az alábbi címen található: https://github.com/webmaster442/AMD-APU-BrightnessFix
+A program az Icons8 által készített ikonokat használja - http://icons8.com
